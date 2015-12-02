@@ -1,6 +1,6 @@
 # masonry2-rails
 
-masonry2-rails wraps the [jQuery Masonry](http://masonry.desandro.com/) library for use in Rails 4.0 and above. Assets will minify automatically during production.
+masonry2-rails wraps the [jQuery Masonry](http://masonry.desandro.com/) library for use in Rails 4.0 and above. Assets should be automatically minified during production.
 
 ## Usage
 
